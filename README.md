@@ -31,6 +31,7 @@ After you're finished please remove all the comments and instructions!
   <!-- <img src="murple_logo.png" alt="logo" width="140"  height="auto" /> -->
   <h1 style="color:gold;">Gladwin Tshepo Ramantso<h1>
   <br/>
+  <img src="./images/main.PNG">
 
   <h3><b>Personal Portfolio</b></h3>
 
