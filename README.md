@@ -29,6 +29,7 @@ After you're finished please remove all the comments and instructions!
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <!-- <img src="murple_logo.png" alt="logo" width="140"  height="auto" /> -->
+  ## Gladwin Tshepo Ramantso
   <br/>
 
   <h3><b>Personal Portfolio</b></h3>
@@ -71,6 +72,8 @@ This project is about my personal portfolio based on figma design provided by Mi
 
 - HTML
 - CSS
+- BOOTSTRAPS
+
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -147,7 +150,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:tsheporamantso/portfolio.git
+  git clone git@github.com:tsheporamantso/portfolio-bootstrap.git
 ```
 
 
@@ -202,7 +205,7 @@ GitHub Pages
 Example: 
 
 ```sh
-https://tsheporamantso.github.io/portfolio/
+https://tsheporamantso.github.io/portfolio-bootstrap/
 ```
 
 
@@ -218,22 +221,16 @@ https://tsheporamantso.github.io/portfolio/
 - Twitter: [@ramgt001](https://twitter.com/ramgt001)
 - LinkedIn: [Tshepo Gladwin Ramantso](https://www.linkedin.com/in/tshepo-ramantso-b6a35433/)
 
-👤 **Mercy Mugambi**
-
-- GitHub: [@mercymugambi](https://github.com/mercymugambi)
-- Twitter: [@mercymugambi15](https://twitter.com/MercyMugambi15)
-- LinkedIn: [@mercymugambi](https://www.linkedin.com/in/mercymugambi/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-<!-- - [ ] **[Contact form]** -->
-<!-- - [ ] **[Media Query for desktop screen]** -->
-<!-- - [ ] **[Transition and Animations]** -->
-<!-- - [ ] **[Web Accessibility]** -->
+- [ ] **[Contact form]**
+- [ ] **[Media Query for desktop screen]**
+- [ ] **[Transition and Animations]**
+- [ ] **[Web Accessibility]**
 - [ ] **[JavaScript functionality]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -244,7 +241,7 @@ https://tsheporamantso.github.io/portfolio/
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [https://github.com/tsheporamantso/portfolio/issues](../../issues/).
+Feel free to check the [https://github.com/tsheporamantso/portfolio-bootstrap/issues](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
